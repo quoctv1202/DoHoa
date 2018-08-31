@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\bin\Debug\CG_ThucHanh1.exe.config
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\bin\Debug\CG_ThucHanh1.exe
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\bin\Debug\CG_ThucHanh1.pdb
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\obj\Debug\CG_ThucHanh1.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\obj\Debug\CG_ThucHanh1.Form1.resources
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\obj\Debug\CG_ThucHanh1.Properties.Resources.resources
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\obj\Debug\CG_ThucHanh1.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\obj\Debug\CG_ThucHanh1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\obj\Debug\CG_ThucHanh1.exe
+C:\Users\hp\source\repos\CG_ThucHanh1\CG_ThucHanh1\obj\Debug\CG_ThucHanh1.pdb
